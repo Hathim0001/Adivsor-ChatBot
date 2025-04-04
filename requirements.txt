@@ -1,0 +1,7 @@
+streamlit>=1.26.0
+torch
+openai
+datasets
+transformers
+accelerate
+streamlit_chat
